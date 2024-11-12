@@ -1,0 +1,1 @@
+In this challenge, part one concerning to generate the cities list by using the citipy library then after I created the different Plots to Showcase the Relationship Between Weather Variables and Latitude such as latitude vs temperature or latitude vs humidity, latitude vs cloudiness and latitude vs wind speed. In addiction, I found the linear regression in each relationship.
